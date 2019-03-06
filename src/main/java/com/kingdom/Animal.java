@@ -2,6 +2,10 @@ package com.kingdom;
 
 public class Animal {
     public void walk(){
-        System.out.println("I am walking");
+        System.out.print("I am walking");
+    }
+
+    public void sing(){
+        System.out.print("default singing");
     }
 }

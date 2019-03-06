@@ -7,5 +7,6 @@ public class Soultion {
         Bird bird = new Bird();
         bird.walk();
         bird.fly();
+        bird.sing();
     }
 }
