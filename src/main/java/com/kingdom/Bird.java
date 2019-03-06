@@ -1,7 +1,7 @@
 package com.kingdom;
 
 public class Bird extends Animal {
-    public String fly(){
+    public void fly(){
         System.out.println("I am flying");
     }
 }
